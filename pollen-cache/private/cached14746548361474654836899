@@ -1,0 +1,1 @@
+#hash((doc . (root (h1 ((id "deep-thought")) "Deep Thought") (p "I am " (strong "so") " happy to be writing this."))) (metas . #hasheq((here-path . "/Users/mattpritchard/workspace/racket/pollen/article.html.pmd"))))
